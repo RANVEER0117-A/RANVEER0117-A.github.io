@@ -4,7 +4,7 @@ This is a fully responsive personal portfolio website, responsive for all device
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Instagram](https://www.instagram.com/ranveer_5_official/).
 
 ## License
 
